@@ -425,6 +425,13 @@ ls -lt automation/logs/claude_output_*.log | head -1
 - 检查 GitLab 项目访问权限
 - 确认分支推送成功
 
+## 📋 TODO / 待办事项
+
+以下是项目的待办事项和计划改进：
+
+- [ ] **支持自动化脚本通过命令执行**：扩展自动化脚本功能，支持通过命令执行，并支持非进度文档类的命令（如 `/issue-analysis`、`/issue-plan` 等）
+- [ ] 
+
 ## 📚 相关文档
 
 - [命令使用指南](commands/README.md)：详细的命令使用说明
